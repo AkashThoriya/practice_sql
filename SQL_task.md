@@ -40,6 +40,8 @@ Where active is default </code>
 Which returns full_name of related master <br/>
 <code>full_name = first_name + ' ' + last_name</code><br/>
 
+**Also create stored procedure for same**
+
 **Example** <br/>
 [1, 1, 3] <br/>
 module_id = 1 => customer <br/>
