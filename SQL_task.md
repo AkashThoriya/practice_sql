@@ -35,7 +35,7 @@ Where active is default </code>
 | 4 | 3 | 1 |
 | 5 | 3 | 5 |
 
-<br/>
+
 **Assume : For now only need to consider active modules [customer, vendor, courier]** <br/>
 **Write SELECT query for sales_order table** <br/>
 Which returns full_name of related master <br/>
