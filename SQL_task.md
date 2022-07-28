@@ -35,12 +35,13 @@ Where active is default </code>
 | 4 | 3 | 1 |
 | 5 | 3 | 5 |
 
-
+<br/>
+**Assume : For now only need to consider active modules [customer, vendor, courier]** <br/>
 **Write SELECT query for sales_order table** <br/>
 Which returns full_name of related master <br/>
-<code>full_name = first_name + ' ' + last_name</code><br/>
+<code>full_name = first_name + ' ' + last_name</code> <br/><br/>
 
-**Also create stored procedure for same**
+**Also create dynamic stored procedure for same** <br/><br/>
 
 **Example** <br/>
 [1, 1, 3] <br/>
